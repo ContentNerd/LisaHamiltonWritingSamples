@@ -1,3 +1,5 @@
-# Welcome to my blog
+# Content samples for Lisa Hamilton
 
-I'm glad you are here. I plan to talk about ...
+Technical writing
+Technical editing
+Content marketing
